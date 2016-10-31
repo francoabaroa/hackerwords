@@ -26,7 +26,7 @@
 
 <dd class="tag-source">
 
-*   [Lobby](client/matchComponents/Lobby.jsx) , [line 19](client_matchComponents_Lobby.jsx.html#line19)
+*   [Lobby](./client/matchComponents/Lobby.jsx) , [line 19](client_matchComponents_Lobby.jsx.html#line19)
 
 </dd>
 
