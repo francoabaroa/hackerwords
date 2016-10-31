@@ -22,7 +22,7 @@
 
 <dd class="tag-source">
 
-*   [client/gameComponents/App.jsx](client_gameComponents_App.jsx.html), [line 1](client_gameComponents_App.jsx.html#line1)
+*   [client/gameComponents/App.jsx](../client/gameComponents/App.jsx), [line 1](../client/gameComponents/App.jsx#line1)
 
 </dd>
 
@@ -54,7 +54,7 @@
 
 <dd class="tag-source">
 
-*   [client/gameComponents/Board.jsx](client_gameComponents_Board.jsx.html), [line 1](client_gameComponents_Board.jsx.html#line1)
+*   [client/gameComponents/Board.jsx](../client/gameComponents/Board.jsx), [line 1](../client/gameComponents/Board.jsx#line1)
 
 </dd>
 
@@ -86,7 +86,7 @@
 
 <dd class="tag-source">
 
-*   [client/gameComponents/PlayedWords.jsx](client_gameComponents_PlayedWords.jsx.html), [line 1](client_gameComponents_PlayedWords.jsx.html#line1)
+*   [client/gameComponents/PlayedWords.jsx](../client/gameComponents/PlayedWords.jsx), [line 1](../client/gameComponents/PlayedWords.jsx#line1)
 
 </dd>
 
@@ -118,7 +118,7 @@
 
 <dd class="tag-source">
 
-*   [client/gameComponents/Score.jsx](client_gameComponents_Score.jsx.html), [line 1](client_gameComponents_Score.jsx.html#line1)
+*   [client/gameComponents/Score.jsx](../client/gameComponents/Score.jsx), [line 1](../client/gameComponents/Score.jsx#line1)
 
 </dd>
 
@@ -150,7 +150,7 @@
 
 <dd class="tag-source">
 
-*   [client/matchComponents/Challenges.jsx](client_matchComponents_Challenges.jsx.html), [line 1](client_matchComponents_Challenges.jsx.html#line1)
+*   [client/matchComponents/Challenges.jsx](../client/matchComponents/Challenges.jsx), [line 1](../client/matchComponents/Challenges.jsx#line1)
 
 </dd>
 
@@ -182,7 +182,7 @@
 
 <dd class="tag-source">
 
-*   [client/matchComponents/GameHistory.jsx](client_matchComponents_GameHistory.jsx.html), [line 1](client_matchComponents_GameHistory.jsx.html#line1)
+*   [client/matchComponents/GameHistory.jsx](../client/matchComponents/GameHistory.jsx), [line 1](../client/matchComponents/GameHistory.jsx#line1)
 
 </dd>
 
@@ -214,7 +214,7 @@
 
 <dd class="tag-source">
 
-*   [client/matchComponents/Lobby.jsx](client_matchComponents_Lobby.jsx.html), [line 1](client_matchComponents_Lobby.jsx.html#line1)
+*   [client/matchComponents/Lobby.jsx](../client/matchComponents/Lobby.jsx), [line 1](../client/matchComponents/Lobby.jsx#line1)
 
 </dd>
 
@@ -246,7 +246,7 @@
 
 <dd class="tag-source">
 
-*   [client/matchComponents/Players.jsx](client_matchComponents_Players.jsx.html), [line 1](client_matchComponents_Players.jsx.html#line1)
+*   [client/matchComponents/Players.jsx](../client/matchComponents/Players.jsx), [line 1](../client/matchComponents/Players.jsx#line1)
 
 </dd>
 
@@ -278,7 +278,7 @@
 
 <dd class="tag-source">
 
-*   [client/userComponents/Signin.jsx](client_userComponents_Signin.jsx.html), [line 1](client_userComponents_Signin.jsx.html#line1)
+*   [client/userComponents/Signin.jsx](../client/userComponents/Signin.jsx), [line 1](../client/userComponents/Signin.jsx#line1)
 
 </dd>
 
@@ -310,7 +310,7 @@
 
 <dd class="tag-source">
 
-*   [client/userComponents/Signup.jsx](client_userComponents_Signup.jsx.html), [line 1](client_userComponents_Signup.jsx.html#line1)
+*   [client/userComponents/Signup.jsx](../client/userComponents/Signup.jsx), [line 1](../client/userComponents/Signup.jsx#line1)
 
 </dd>
 
@@ -342,7 +342,7 @@
 
 <dd class="tag-source">
 
-*   [client/util.js](client_util.js.html), [line 1](client_util.js.html#line1)
+*   [client/util.js](../client/util.js), [line 1](../client/util.js#line1)
 
 </dd>
 
@@ -374,7 +374,7 @@
 
 <dd class="tag-source">
 
-*   [server/board/BoardTools.js](server_board_BoardTools.js.html), [line 1](server_board_BoardTools.js.html#line1)
+*   [server/board/BoardTools.js](../server/board/BoardTools.js), [line 1](../server/board/BoardTools.js#line1)
 
 </dd>
 
@@ -406,7 +406,7 @@
 
 <dd class="tag-source">
 
-*   [server/middleware.js](server_middleware.js.html), [line 1](server_middleware.js.html#line1)
+*   [server/middleware.js](../server/middleware.js), [line 1](../server/middleware.js#line1)
 
 </dd>
 
@@ -438,7 +438,7 @@
 
 <dd class="tag-source">
 
-*   [server/router.js](server_router.js.html), [line 1](server_router.js.html#line1)
+*   [server/router.js](../server/router.js), [line 1](../server/router.js#line1)
 
 </dd>
 
@@ -470,7 +470,7 @@
 
 <dd class="tag-source">
 
-*   [server/server.js](server_server.js.html), [line 1](server_server.js.html#line1)
+*   [server/server.js](../server/server.js), [line 1](../server/server.js#line1)
 
 </dd>
 
@@ -502,7 +502,7 @@
 
 <dd class="tag-source">
 
-*   [server/users/userController.js](server_users_userController.js.html), [line 1](server_users_userController.js.html#line1)
+*   [server/users/userController.js](../server/users/userController.js), [line 1](../server/users/userController.js#line1)
 
 </dd>
 
@@ -534,7 +534,7 @@
 
 <dd class="tag-source">
 
-*   [server/users/userModel.js](server_users_userModel.js.html), [line 1](server_users_userModel.js.html#line1)
+*   [server/users/userModel.js](../server/users/userModel.js), [line 1](../server/users/userModel.js#line1)
 
 </dd>
 
@@ -566,7 +566,7 @@
 
 <dd class="tag-source">
 
-*   [server/util.js](server_util.js.html), [line 1](server_util.js.html#line1)
+*   [server/util.js](../server/util.js), [line 1](../server/util.js#line1)
 
 </dd>
 
