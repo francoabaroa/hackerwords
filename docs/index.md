@@ -586,28 +586,28 @@
 
 ### Modules
 
-*   [Authentication Utility Client-Side Functions](module-Authentication%2520Utility%2520Client-Side%2520Functions.html)
-*   [Authentication Utility Server-Side Functions](module-Authentication%2520Utility%2520Server-Side%2520Functions.html)
-*   [Board](module-Board.html)
-*   [Board Tools Functions](module-Board%2520Tools%2520Functions.html)
-*   [Game Model](module-Game%2520Model.html)
-*   [Middleware](module-Middleware.html)
-*   [Played Words](module-Played%2520Words.html)
-*   [Router](module-Router.html)
-*   [Score](module-Score.html)
-*   [Server](module-Server.html)
-*   [User Controller](module-User%2520Controller.html)
-*   [User Model](module-User%2520Model.html)
+*   [Authentication Utility Client-Side Functions](module-Authentication%2520Utility%2520Client-Side%2520Functions.md)
+*   [Authentication Utility Server-Side Functions](module-Authentication%2520Utility%2520Server-Side%2520Functions.md)
+*   [Board](module-Board.md)
+*   [Board Tools Functions](module-Board%2520Tools%2520Functions.md)
+*   [Game Model](module-Game%2520Model.md)
+*   [Middleware](module-Middleware.md)
+*   [Played Words](module-Played%2520Words.md)
+*   [Router](module-Router.md)
+*   [Score](module-Score.md)
+*   [Server](module-Server.md)
+*   [User Controller](module-User%2520Controller.md)
+*   [User Model](module-User%2520Model.md)
 
 ### Classes
 
 *   [App](App.md)
-*   [Challenges](Challenges.html)
-*   [GameHistory](GameHistory.html)
-*   [Lobby](Lobby.html)
-*   [Players](Players.html)
-*   [Signin](Signin.html)
-*   [Signup](Signup.html)
+*   [Challenges](Challenges.md)
+*   [GameHistory](GameHistory.md)
+*   [Lobby](Lobby.md)
+*   [Players](Players.md)
+*   [Signin](Signin.md)
+*   [Signup](Signup.md)
 
 </nav>
 
