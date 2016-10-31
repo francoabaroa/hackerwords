@@ -15,7 +15,7 @@
 
 <dt class="tag-source">Source:</dt>
 
-*   [Lobby](../client/matchComponents/Lobby.jsx) , [line 19](client_matchComponents_Lobby.jsx#line19)
+*   [Lobby](../client/matchComponents/Lobby.jsx) , [line 19](../client/client_matchComponents_Lobby.jsx#line19)
 
 ***
 
@@ -27,7 +27,7 @@
 
 <dt class="tag-source">Source:</dt>
 
-*   [../client/matchComponents/Lobby.jsx](../client/matchComponents/Lobby.jsx), [line 32](client_matchComponents_Lobby.jsx#line32)
+*   [../client/matchComponents/Lobby.jsx](../client/matchComponents/Lobby.jsx), [line 32](../client/client_matchComponents_Lobby.jsx#line32)
 
 #### <span class="type-signature"></span>logOut<span class="signature">()</span><span class="type-signature"></span>
 
@@ -36,7 +36,7 @@
 
 <dt class="tag-source">Source:</dt>
 
-*   [../client/matchComponents/Lobby.jsx](../client/matchComponents/Lobby.jsx), [line 127](client_matchComponents_Lobby.jsx#line127)
+*   [../client/matchComponents/Lobby.jsx](../client/matchComponents/Lobby.jsx), [line 127](../client/client_matchComponents_Lobby.jsx#line127)
 
 ***
 
