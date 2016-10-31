@@ -601,7 +601,7 @@
 
 ### Classes
 
-*   [App](App.html)
+*   [App](App.md)
 *   [Challenges](Challenges.html)
 *   [GameHistory](GameHistory.html)
 *   [Lobby](Lobby.html)
