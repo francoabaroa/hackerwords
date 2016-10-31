@@ -6,6 +6,8 @@
 
 <header>
 
+***
+
 ## Lobby
 
 <div class="class-description">Creates a new Lobby component.</div>
@@ -15,6 +17,8 @@
 <article>
 
 <div class="container-overview">
+
+***
 
 ## Constructor
 
@@ -35,6 +39,8 @@
 </dl>
 
 </div>
+
+***
 
 ### Methods
 
@@ -77,6 +83,8 @@
 </div>
 
 <nav>
+
+***
 
 ## [Home](index.html)
 
