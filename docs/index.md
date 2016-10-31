@@ -54,7 +54,9 @@
 
 <dd class="tag-source">
 
-*   [client/gameComponents/Board.jsx](../client/gameComponents/Board.jsx), [line 1](../client/gameComponents/Board.jsx#line1)
+*   [../client/gameComponents/Board.jsx](../client/gameComponents/Board.jsx), [line 1](../client/gameComponents/Board.jsx#line1)
+
+*   [../client/matchComponents/Lobby.jsx](../client/matchComponents/Lobby.jsx), [line 127](../client/matchComponents/Lobby.jsx#line127)
 
 </dd>
 
