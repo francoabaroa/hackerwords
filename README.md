@@ -1,9 +1,8 @@
 # Hacker Words
 <p align="center">
   <img src="/screenshots/demo.gif?raw=true"/>
-  <h6> ###### *not an actual depiction of a game board </h6>
+  <h6 align="center"> *not an actual depiction of a game board </h6>
 </p>
-  ###### *not an actual depiction of a game board
  
 ![Gameplay](/screenshots/gameplay.png?raw=true "Homepage")
 ![Signin](/screenshots/signin.png?raw=true "Search Query")
