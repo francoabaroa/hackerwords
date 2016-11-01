@@ -5,7 +5,7 @@
 </p>
  
 ![Gameplay](/screenshots/gameplay.png?raw=true "Homepage")
-![Signin](/screenshots/signin.png?raw=true "Search Query")
+![Signin](/screenshots/signin.png?raw=true "Signin")
 
 > Like WordCrack but not as cripplingly addictive.
 
