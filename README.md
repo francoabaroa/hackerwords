@@ -1,4 +1,7 @@
 # Hacker Words
+![Demo Gif](/screenshots/demo.gif?raw=true "Demo")
+![Gameplay](/screenshots/gameplay.png?raw=true "Homepage")
+![Signin](/screenshots/signin.png?raw=true "Search Query")
 
 > Like WordCrack but not as cripplingly addictive.
 
