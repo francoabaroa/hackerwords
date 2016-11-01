@@ -1,9 +1,8 @@
 # Hacker Words
 <p align="center">
   <img src="/screenshots/demo.gif?raw=true"/>
-</p>
-![Demo Gif](/screenshots/demo.gif?raw=true "Demo")
-###### *not an actual depiction of a game board
+  ###### *not an actual depiction of a game board
+ 
 ![Gameplay](/screenshots/gameplay.png?raw=true "Homepage")
 ![Signin](/screenshots/signin.png?raw=true "Search Query")
 
@@ -67,3 +66,5 @@ View the project roadmap [here](https://github.com/EthicalPickles/2016-09-greenf
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+</p>
