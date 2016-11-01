@@ -1,7 +1,7 @@
 <h1 align="center"> HackerWords </h1>
 <p align="center">
   <img src="/screenshots/demo.gif?raw=true"/>
-  <h6 align="center"> *not an actual depiction of a game board </h6>
+  <h6 align="center"> *not a real game board </h6>
 </p>
  
 ![Gameplay](/screenshots/gameplay.png?raw=true "Homepage")
