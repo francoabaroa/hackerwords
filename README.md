@@ -7,7 +7,9 @@
  <p align="center"> Signin Page </p>
 ![Signin](/screenshots/signin.png?raw=true "Signin")
 
-> A Boggle/Word Crack Inspired Game 
+## App
+
+> A Boggle/Word Crack Inspired Game App
 
 ## Team
 
