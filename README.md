@@ -15,7 +15,7 @@
 
   - __Product Owner__: Lucas Becker
   - __Scrum Master__: Stephen Cefali
-  - __Development Team Members__: Wallace Luk, Franco Abaroa
+  - __Development Team Members__: Franco Abaroa, Wallace Luk
 
 ## Table of Contents
 
