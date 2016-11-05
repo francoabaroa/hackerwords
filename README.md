@@ -55,6 +55,11 @@ Head to local host: [127.0.0.1:3000](http://127.0.0.1:3000)
 
 [Get Started Here] (https://francoabaroa.github.io/)
 
+## Requirements
+
+Stack used: MERN (MongoDB, Express, React, Node)
+Deployment tool: DigitalOcean
+
 ## Development
 
 ### Installing Dependencies
