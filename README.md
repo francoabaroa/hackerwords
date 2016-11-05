@@ -60,6 +60,12 @@ Head to local host: [127.0.0.1:3000](http://127.0.0.1:3000)
 Stack used: MERN (MongoDB, Express, React, Node)
 Deployment tool: DigitalOcean
 
+## Testing
+
+```sh
+npm test
+```
+
 ## Development
 
 ### Installing Dependencies
