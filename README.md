@@ -2,11 +2,12 @@
 <p align="center">
   <img src="/screenshots/demo.gif?raw=true"/>
 </p>
- 
+ <p align="center"> Gameboard </p>
 ![Gameplay](/screenshots/gameplay.png?raw=true "Homepage")
+ <p align="center"> Signin Page </p>
 ![Signin](/screenshots/signin.png?raw=true "Signin")
 
-> Like WordCrack but not as cripplingly addictive.
+> A Boggle/Word Crack Inspired Game 
 
 ## Team
 
